@@ -1,74 +1,69 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:58A6FF&text=Egor&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Manual%20Testing%20|%20API%20Testing&descAlignY=58"/>
+# 👋 Привет, меня зовут Егор
 
-# 👋 Hey, I'm Egor
+### QA Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Manual+Testing;Web+%26+Mobile+Testing;API+Testing;Finding+bugs+before+users+do+🐞"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ручное+тестирование;Тестирование+веб+и+мобильных+приложений;API+тестирование;Нахожу+баги+раньше+пользователей+🐞"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Manual_Testing-58A6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API_Testing-58A6FF?style=for-the-badge"/>
+<p>
+<img src="https://img.shields.io/badge/Ручное_тестирование-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web_Testing-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mobile_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Testing-58A6FF?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🚀 Обо мне
 
-QA Engineer focused on web and mobile application testing with experience in creating testing documentation, API validation, and bug reporting.
+QA Engineer, ориентированный на обеспечение качества веб и мобильных приложений.
 
-- 🔹 Manual Testing
-- 🔹 Web & Mobile applications
-- 🔹 API Testing
-- 🔹 Bug Reporting
-- 🔹 Quality Assurance processes
+Имею опыт работы с тестовой документацией, API-тестированием, поиском и оформлением багов.
 
----
+🔹 Ручное тестирование
 
-# 💻 Terminal
+🔹 Тестирование веб-приложений
 
-```bash
-> whoami
+🔹 Тестирование мобильных приложений
 
-Egor
+🔹 API тестирование
 
-> role
+🔹 Составление баг-репортов
 
-QA Engineer
-
-> current_focus
-
-API Testing
-SQL
-Automation Fundamentals
-Portfolio Projects
-
-> status
-
-Open to opportunities 🚀
-```
+🔹 Контроль качества продукта
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Стек и инструменты
 
-### Testing & Documentation
+### Документация и рабочие инструменты
 
-<p align="center">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postgres"/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,md"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square"/>
+
+</div>
+
+---
+
+### Инструменты тестирования
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
@@ -80,98 +75,85 @@ Open to opportunities 🚀
 
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 QA Progress
-
-<div align="center">
-
-| Skill | Progress |
-|:---|:---:|
-| Manual Testing | ██████████ |
-| API Testing | ████████░░ |
-| SQL | ██████░░░░ |
-| Automation | ███░░░░░░░ |
-
 </div>
 
 ---
 
-# 📂 Featured Projects
+# 🎯 Сейчас изучаю и развиваю
 
-### 🔹 Web Application Testing
+🔹 API тестирование
 
-✔ Functional testing  
-✔ UI/UX testing  
-✔ Cross-browser testing  
-✔ Bug reports  
-✔ Test cases  
+🔹 Основы автоматизации
 
-🔗 Repository: Coming soon
+🔹 SQL
+
+🔹 Создание QA-портфолио
 
 ---
 
-### 🔹 Mobile Application Testing
+# 📂 Портфолио
 
-✔ Android testing  
-✔ iOS testing  
-✔ User flow testing  
+### 🔹 Тестирование веб-приложений
 
-🔗 Repository: Coming soon
+✔ Функциональное тестирование
 
----
+✔ UI/UX тестирование
 
-### 🔹 API Testing
+✔ Кроссбраузерное тестирование
 
-✔ Postman collections  
-✔ Request validation  
-✔ Response verification  
+✔ Баг-репорты
 
-🔗 Repository: Coming soon
+✔ Тест-кейсы
 
 ---
 
-# 🔥 QA Workflow
+### 🔹 Тестирование мобильных приложений
 
-Requirements Analysis
+✔ Android
 
-⬇
+✔ iOS
 
-Test Cases Creation
-
-⬇
-
-Test Execution
-
-⬇
-
-Bug Reporting
-
-⬇
-
-Retesting
-
-⬇
-
-Regression Testing
+✔ Проверка пользовательских сценариев
 
 ---
 
-# 🐍 Contribution Activity
+### 🔹 API тестирование
 
-<div align="center">
+✔ Коллекции запросов
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+✔ Проверка запросов
 
-</div>
+✔ Проверка ответов
 
 ---
 
-# 📫 Contact Me
+# 🔥 Этапы тестирования
+
+Анализ требований
+
+⬇
+
+Создание тест-кейсов
+
+⬇
+
+Проведение тестирования
+
+⬇
+
+Создание баг-репортов
+
+⬇
+
+Повторная проверка
+
+⬇
+
+Регрессионное тестирование
+
+---
+
+# 📫 Контакты
 
 <div align="center">
 
@@ -189,6 +171,6 @@ Regression Testing
 
 <div align="center">
 
-### ⭐ Open to QA Engineer opportunities
+### ⭐ Открыт для предложений и новых возможностей
 
 </div>
