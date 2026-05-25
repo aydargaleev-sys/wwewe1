@@ -1,103 +1,142 @@
 <div align="center">
 
 # 👋 Hey, I'm Egor
-### QA Engineer | Manual Testing | Web & Mobile Testing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=QA+Engineer;Manual+Testing;Web+%26+Mobile+Testing;Bug+Hunter+%F0%9F%90%9B" />
+### QA Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Manual+Testing;Web+%26+Mobile+Testing;API+Testing;Finding+bugs+before+users+do+🐞" />
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Manual_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Testing-58A6FF?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Detail-oriented QA Engineer focused on ensuring product quality through manual testing and quality assurance processes.
+QA Engineer focused on web and mobile application testing with experience in creating testing documentation, API validation, and bug reporting.
 
-🔹 Web & Mobile application testing  
-🔹 Test documentation & bug reporting  
+🔹 Manual testing  
+🔹 Web & Mobile applications  
 🔹 API testing  
-🔹 Cross-browser testing  
-🔹 Quality assurance workflows  
+🔹 Bug reporting  
+🔹 Quality assurance processes  
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 📋 Testing Documentation
+### Testing & Documentation
 
-<p>
-<img src="https://skillicons.dev/icons?i=md" />
-<img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
+<div align="left">
 
-### 🌐 Web Testing
+<img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,md"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</p>
+<br><br>
 
-### 📱 Mobile Testing
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square"/>
 
-<p>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
-
-### 💾 Working with Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,json" />
-<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 💻 Version Control
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-</p>
+</div>
 
 ---
 
-## 📂 Portfolio
+### Testing Tools
 
-### 🔹 Testing Documentation
-✔ Test cases  
-✔ Checklists  
-✔ Bug reports  
-✔ Testing artifacts  
+<div align="left">
 
-### 🔹 Web Testing
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+🔹 Improving API testing skills  
+🔹 Learning automation fundamentals  
+🔹 Building QA portfolio projects  
+🔹 Improving SQL knowledge  
+
+---
+
+# 📂 Featured Projects
+
+### 🔹 Web Application Testing
+
 ✔ Functional testing  
 ✔ UI/UX testing  
 ✔ Cross-browser testing  
-
-### 🔹 Mobile Testing
-✔ Android / iOS testing scenarios  
-
-### 🔹 API Testing
-✔ API collections  
-✔ Requests validation  
+✔ Bug reports  
+✔ Test cases  
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 Mobile Application Testing
+
+✔ Android testing scenarios  
+✔ iOS testing scenarios  
+✔ User flow testing  
+
+---
+
+### 🔹 API Testing
+
+✔ API collections  
+✔ Request validation  
+✔ Response verification  
+
+---
+
+# 🔥 QA Workflow
+
+Requirements Analysis
+
+⬇
+
+Test Cases Creation
+
+⬇
+
+Test Execution
+
+⬇
+
+Bug Reporting
+
+⬇
+
+Retesting
+
+⬇
+
+Regression Testing
+
+---
+
+# 📫 Contact Me
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
 <a href="https://t.me/Tipocooll">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
@@ -105,7 +144,8 @@ Detail-oriented QA Engineer focused on ensuring product quality through manual t
 <a href="mailto:ruchkin.egor06@bk.ru">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
