@@ -1,19 +1,17 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:58A6FF&text=Egor&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Manual%20Testing%20|%20API%20Testing&descAlignY=58"/>
+
 # 👋 Hey, I'm Egor
 
-### QA Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Manual+Testing;Web+%26+Mobile+Testing;API+Testing;Finding+bugs+before+users+do+🐞" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Manual+Testing;Web+%26+Mobile+Testing;API+Testing;Finding+bugs+before+users+do+🐞"/>
 
 <br>
 
-<p>
 <img src="https://img.shields.io/badge/Manual_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Testing-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web_Testing-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mobile_Testing-58A6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API_Testing-58A6FF?style=for-the-badge"/>
-</p>
 
 </div>
 
@@ -23,11 +21,36 @@
 
 QA Engineer focused on web and mobile application testing with experience in creating testing documentation, API validation, and bug reporting.
 
-🔹 Manual testing  
-🔹 Web & Mobile applications  
-🔹 API testing  
-🔹 Bug reporting  
-🔹 Quality assurance processes  
+- 🔹 Manual Testing
+- 🔹 Web & Mobile applications
+- 🔹 API Testing
+- 🔹 Bug Reporting
+- 🔹 Quality Assurance processes
+
+---
+
+# 💻 Terminal
+
+```bash
+> whoami
+
+Egor
+
+> role
+
+QA Engineer
+
+> current_focus
+
+API Testing
+SQL
+Automation Fundamentals
+Portfolio Projects
+
+> status
+
+Open to opportunities 🚀
+```
 
 ---
 
@@ -35,26 +58,17 @@ QA Engineer focused on web and mobile application testing with experience in cre
 
 ### Testing & Documentation
 
-<div align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,md"/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postgres"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square"/>
-
-</div>
-
----
-
-### Testing Tools
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
@@ -66,16 +80,24 @@ QA Engineer focused on web and mobile application testing with experience in cre
 
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+
+</p>
 
 ---
 
-# 🎯 Current Focus
+# 📊 QA Progress
 
-🔹 Improving API testing skills  
-🔹 Learning automation fundamentals  
-🔹 Building QA portfolio projects  
-🔹 Improving SQL knowledge  
+<div align="center">
+
+| Skill | Progress |
+|:---|:---:|
+| Manual Testing | ██████████ |
+| API Testing | ████████░░ |
+| SQL | ██████░░░░ |
+| Automation | ███░░░░░░░ |
+
+</div>
 
 ---
 
@@ -89,21 +111,27 @@ QA Engineer focused on web and mobile application testing with experience in cre
 ✔ Bug reports  
 ✔ Test cases  
 
+🔗 Repository: Coming soon
+
 ---
 
 ### 🔹 Mobile Application Testing
 
-✔ Android testing scenarios  
-✔ iOS testing scenarios  
+✔ Android testing  
+✔ iOS testing  
 ✔ User flow testing  
+
+🔗 Repository: Coming soon
 
 ---
 
 ### 🔹 API Testing
 
-✔ API collections  
+✔ Postman collections  
 ✔ Request validation  
 ✔ Response verification  
+
+🔗 Repository: Coming soon
 
 ---
 
@@ -130,6 +158,16 @@ Retesting
 ⬇
 
 Regression Testing
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
